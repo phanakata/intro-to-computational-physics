@@ -1,1 +1,1 @@
-# course-intro-to-computational-methods
+# course
