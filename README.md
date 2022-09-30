@@ -1,4 +1,4 @@
-In this repository I am developing a Intro to Computational Physic swith lectures notes written in interactive Jupyter notebooks.
+In this repository I am developing a Intro to Computational Physic with lectures notes written in interactive Jupyter notebooks.
 ## Intro to Computational Physics
 An introductory course to proagramming in python and jupyter notebooks for people with concentrations in physics, engineering, and related fields.
 
