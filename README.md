@@ -2,7 +2,7 @@ In this repository I am developing Introduction to Computational Physics course 
 ## Intro to Computational Physics
 An introductory course to proagramming in python and jupyter notebooks for people with concentrations in physics, engineering, and related fields. 
 
-Learning goals:
+### Learning goals:
 1. Familiarity with programming in python, Jupyter notebook and scientific packages for scientific computing 
 2. Understanding the mathematics of numerical methods and approximation 
 3. Familiarity with implementing numerical methods in python and applying them to real physical problems 
@@ -19,7 +19,7 @@ This course contains two parts:
    * Monte Carlo simulations of Ising model 
 Exercices and numerical methods involve problems related to mechanics, soft and hard condensed matter physics, and finances.  
 
-Course evaluations:
+### Course evaluations:
 1. Bi-weekly assigments: mathematical derivations, programming exercises, and code developments.  
 2. Group projects 
 3. Group presenation 
