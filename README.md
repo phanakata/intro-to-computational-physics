@@ -3,9 +3,9 @@ In this repository I am developing Introduction to Computational Physics course 
 An introductory course to proagramming in python and jupyter notebooks for people with concentrations in physics, engineering, and related fields. 
 
 ### Learning goals:
-1. Familiarity with programming in python, Jupyter notebook and scientific packages for scientific computing 
-2. Understanding the mathematics of numerical methods and approximation 
-3. Familiarity with implementing numerical methods in python and applying them to real physical problems 
+1. Familiarity with programming in python and scientific packages for scientific computing 
+2. Understanding the mathematics of numerical methods and approximations for scientific computing 
+3. Familiarity with implementing numerical methods in python and their applications to physics and engineering problems 
 
 This course contains two parts:
 1. Basics: 
