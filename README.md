@@ -22,7 +22,7 @@ Exercices and numerical methods involve problems related to mechanics, soft and 
 ### Course evaluations:
 1. Bi-weekly assigments: mathematical derivations, programming exercises, and code developments.  
 2. Group projects 
-3. Group presenation 
+3. Group presentation 
 
 ## Overview 
 This course directory structure is as follows:
