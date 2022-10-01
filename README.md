@@ -16,13 +16,13 @@ This course contains two parts:
 2. Advanced (numerical methods and simulations):
    * Root finding 
    * Fourier Transform 
-   * Monte carlo simulations of Ising model 
+   * Monte Carlo simulations of Ising model 
 Exercices and numerical methods involve problems related to mechanics, soft and hard condensed matter physics, and finances.  
 
-Course evaluation:
+Course evaluations:
 1. Bi-weekly assigments: mathematical derivations, programming exercises, and code developments.  
-2. Final group projects 
-
+2. Group projects 
+3. Group presenation 
 
 ## Overview 
 This course directory structure is as follows:
