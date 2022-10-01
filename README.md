@@ -24,13 +24,13 @@ Exercices and numerical methods involve problems related to mechanics, soft and 
 2. Group projects 
 3. Group presentation 
 
-## Overview 
+### Overview of directories  
 This course directory structure is as follows:
 * ```fourier-transform/```:
 * ```ising-model/```: 
 * ```lecturenotes/```: All lecture notes (jupyter notebook) in pdf format.
-## To download 
+### To download 
 git clone https://github.com/phanakata/intro-to-computational-physics
 
-## Author
+### Author
 Paul Hanakata
