@@ -26,7 +26,7 @@ Course evaluation:
 
 ## Overview 
 This course directory structure is as follows:
-* ```fourier-analysis/```:
+* ```fourier-transform/```:
 * ```ising-model/```: 
 * ```lecturenotes/```: All lecture notes (jupyter notebook) in pdf format.
 ## To download 
