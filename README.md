@@ -19,6 +19,11 @@ This course contains two parts:
    * Monte carlo simulations of Ising model 
 Exercices and numerical methods involve problems related to mechanics, soft and hard condensed matter physics, and finances.  
 
+Course evaluation:
+1. Bi-weekly assigments: mathematical derivations, programming exercises, and code developments.  
+2. Final group projects 
+
+
 ## Overview 
 This course directory structure is as follows:
 * ```fourier-analysis/```:
