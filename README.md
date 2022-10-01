@@ -1,6 +1,13 @@
 In this repository I am developing Introduction to Computational Physics course with lectures notes written in interactive Jupyter notebooks.
 ## Intro to Computational Physics
-An introductory course to proagramming in python and jupyter notebooks for people with concentrations in physics, engineering, and related fields. This course contains two parts:
+An introductory course to proagramming in python and jupyter notebooks for people with concentrations in physics, engineering, and related fields. 
+
+Learning goals:
+1. Familiarity with programming in python, Jupyter notebook and scientific packages for scientific computing 
+2. Understanding the mathematics of numerical methods and approximation 
+3. Familiarity with implementing numerical methods in python and applying them to real physical problems 
+
+This course contains two parts:
 1. Basics: 
     * Data types, arrays 
     * For and while loops, conditional statements 
